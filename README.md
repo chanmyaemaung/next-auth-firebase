@@ -14,3 +14,5 @@ yarn dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+` Don't forget to create next.config.js in order to retrieve your firebase api keys `
