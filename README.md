@@ -1,6 +1,8 @@
 # NEXT JS - Authentication with Firebase Latest Version
 
-## Getting Started
+## You can follow along with every single codes with Burmese Explanation
+
+### Getting Started
 
 First, run the development server:
 
